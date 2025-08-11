@@ -38,9 +38,3 @@ projeto/
 3. **Editar Livro**: Permite modificar informações de um livro existente
 4. **Excluir Livro**: Remove um livro da biblioteca
 5. **Buscar Livros**: Filtro por título ou autor
-
-
-## Como Executar
-1. Instalar dependências: `npm install`
-2. Iniciar servidor: `npm start`
-3. Abrir `frontend/index.html` no navegador
