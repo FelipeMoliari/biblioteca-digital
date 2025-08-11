@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Livros - CRUD Full Stack
-
+<img src="biblioteca-digital.gif">
 ## Descrição do Projeto
 Um sistema simples para gerenciar uma biblioteca pessoal, permitindo:
 - **Create**: Adicionar novos livros
